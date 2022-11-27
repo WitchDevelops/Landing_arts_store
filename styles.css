@@ -135,7 +135,7 @@ body {
 
 
 header {
-    background-image: url(/assets/pattern.jpeg); 
+    background-image: url(assets/pattern.jpeg); 
     padding: 20rem;
     width: 100%;
 }
